@@ -111,9 +111,7 @@ void printFunction(char *str) {
     
     
     
-    
-    
-    
+
     
     //    [[signal1 finally:^{
     //        NSLog(@"想要做的事");
