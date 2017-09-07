@@ -8,5 +8,5 @@ target 'reactiveCocoa' do
   # Pods for reactiveCocoa
 
     pod 'ReactiveCocoa','2.5'
-
+    pod 'AFNetworking'
 end
